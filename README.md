@@ -9,6 +9,10 @@
 ---
 In this project we will analyze the employee data to gain insights on what factors influence employee attrition. Given in the data is a set of data points on the employees who are either currently working within the company or have resigned. The objective is to identify and improve these factors to prevent loss of good people.
 
+
+![Screenshot 2024-01-12 135517](https://github.com/AureliaTambur/HR-employee-attrition/assets/156318226/dcc3d09c-16db-4727-9966-dc5fccfe7b48)
+
+
 ### Data Sources
 Data contains survey results of 1470 employees who are either currently working within the company or have resigned. It includes details about their age, salary, education, satisfaction scores, marital status, years of working etc. It is available on: Employee Attrition | Kaggle.
 
